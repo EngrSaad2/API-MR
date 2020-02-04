@@ -1,0 +1,138 @@
+{
+  "users": [
+    {
+      "id": 0,
+      "username": "rony",
+      "password": "12345"
+    },
+    {
+      "id": 1,
+      "username": "mrsamia",
+      "password": "1234522"
+    },
+    {
+      "id": 2,
+      "username": "naeem",
+      "password": "12345854"
+    }
+  ],
+  "profiles": [
+    {
+      "id": 0,
+      "user_id": 1,
+      "name": "Md. Moshfiqur Rahman Rony",
+      "post": "Software Engineer"
+    },
+    {
+      "id": 1,
+      "user_id": 1,
+      "name": "Samia Rahman",
+      "post": "QA Engineer"
+    },
+    {
+      "id": 1,
+      "user_id": 2,
+      "name": "Naeem Hossen",
+      "post": "Software Engineer"
+    }
+  ],
+  "departments":[
+    {
+      "id": 0,
+      "name": "Department of Computer Science and Engineering"
+    },
+    {
+      "id": 1,
+      "name": "Department of Civil Engineering"
+    },
+    {
+      "id": 2,
+      "name": "Department of Bangla"
+    },
+    {
+      "id": 3,
+      "name": "Department of English"
+    },
+    {
+      "id": 4,
+      "name": "Department of Persian Language and Literature"
+    },
+    {
+      "id": 5,
+      "name": "Department of History"
+    },
+    {
+      "id": 6,
+      "name": "Department of Arabic"
+    },
+    {
+      "id": 7,
+      "name": "Department of Islamic Studies"
+    },
+    {
+      "id": 8,
+      "name": "Department of Islamic History and Culture"
+    },
+    {
+      "id": 9,
+      "name": "Department of Sanskrit"
+    },
+    {
+      "id": 10,
+      "name": "Department of Information Science and Library Management"
+    },
+    {
+      "id": 11,
+      "name": "Department of Language Science"
+    },
+    {
+      "id": 12,
+      "name": "Department of Theater and Music"
+    },
+    {
+      "id": 13,
+      "name": "Department of World Religions and Culture"
+    },
+    {
+      "id": 14,
+      "name": "Department of Pali and Buddhist Studies"
+    },
+    {
+      "id": 15,
+      "name": "Department of Urdu"
+    },
+    {
+      "id": 16,
+      "name": "Department of Linguistics"
+    },
+    {
+      "id": 17,
+      "name": "Department of Management Studies"
+    },
+    {
+      "id": 18,
+      "name": "Department of Management Information Systems"
+    },
+    {
+      "id": 19,
+      "name": "Department of Organization Strategy and Leadership"
+    }
+  ],
+  "user-category":[
+    {
+      "id": 0,
+      "name": "Student"
+    },
+    {
+      "id": 1,
+      "name": "Teacher"
+    },
+    {
+      "id": 2,
+      "name": "Lab Assistant"
+    }
+  ],
+  "any-objects": [
+    
+  ]
+}
